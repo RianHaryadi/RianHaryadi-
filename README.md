@@ -1,7 +1,3 @@
-### 👋 Hi there 
-I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
-
-
-- 🔭 I’m currently working on ReactJS, Nodejs devOps, DataBase Modeling and flutter.
-- 🍔 Founder TasteBuds.
-- ⚡ Currently Working at ThoughtWorks.
+### 👋 Hi im rian haryadi
+I'm learning about coding in here
+my major in collage informasion system
